@@ -1,0 +1,77 @@
+.sect1{
+    margin-right: 0px;
+    background-color: black;
+}
+
+.headerr-1{
+    background-color: black;
+}
+
+@media(max-width:577px){
+    .imgs-1{
+        background: black;
+    }
+}
+
+.btn1{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color:rgba(131, 23, 23, 0.705)(131, 23, 23)(177, 27, 27) ;
+    color: black;
+}
+
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+
+.imgs-1{
+    width: 100%;
+    height: 766px;
+}
+
+.imgs-2{
+    max-width:100%;
+    display: block;
+    height: auto;
+    margin-top: 35px;
+    margin-left: 100px;
+}
+
+.para-1{
+    line-height: 2.2;
+    word-spacing: 7.7;
+    color: gray;
+    margin-left: 130px;
+    margin-right: 20px;
+}
+
+.foo{
+    text-decoration: none;
+    color: gray;
+    margin-left: 30px;
+}
+.foo:hover{
+    color: blue;
+}
+
+.body{
+    height: fit-content;
+    margin-top: -122px;
+}
+
+.text{
+    margin-top: -330px;
+    margin-left: 30px;
+}
+
+.title{
+    margin-left: 130px;
+}
+
+
+
+
+
+
